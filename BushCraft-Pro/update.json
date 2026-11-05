@@ -1,18 +1,18 @@
 {
   "product": "BushCraft-Pro",
-  "version": "1.1.0",
-  "versionCode": 2,
+  "version": "1.2.0",
+  "versionCode": 3,
   "channel": "stable",
-  "tag": "bushcraft-pro-v1.1.0",
+  "tag": "bushcraft-pro-v1.2.0",
   "published": "2026-11-05",
   "notes": {
-    "nl": "Eerste release op GitHub: licentie, Vissen-scherm met water op jouw locatie, regenradar en extra kennis.",
-    "en": "First release on GitHub: licence, fishing screen with water at your location, rain radar and extra knowledge."
+    "nl": "Automatische updates via GitHub: de app meldt voortaan zelf een nieuwe versie en installeert die na controle (SHA-256).",
+    "en": "Automatic updates via GitHub: the app now tells you about a new version itself and installs it after a check (SHA-256)."
   },
   "apk": {
-    "filename": "BushCraft-Pro-1.1.0.apk",
-    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/bushcraft-pro-v1.1.0/BushCraft-Pro-1.1.0.apk",
-    "sha256": "c5e0bcbe91bf2d16ae2e9583280591473a60b11cdad28ab4aff92f92a356cd7c",
-    "size": 72514637
+    "filename": "BushCraft-Pro-1.2.0.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/bushcraft-pro-v1.2.0/BushCraft-Pro-1.2.0.apk",
+    "sha256": "adcf017043f3943669639b331a9df40fe6ec4593d40b5800b83a33620f8efd8d",
+    "size": 72529137
   }
 }
