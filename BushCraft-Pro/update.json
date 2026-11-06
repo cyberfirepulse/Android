@@ -1,18 +1,18 @@
 {
   "product": "BushCraft-Pro",
-  "version": "1.2.0",
-  "versionCode": 3,
+  "version": "1.2.1",
+  "versionCode": 4,
   "channel": "stable",
-  "tag": "bushcraft-pro-v1.2.0",
-  "published": "2026-11-05",
+  "tag": "bushcraft-pro-v1.2.1",
+  "published": "2026-11-06",
   "notes": {
-    "nl": "Automatische updates via GitHub: de app meldt voortaan zelf een nieuwe versie en installeert die na controle (SHA-256).",
-    "en": "Automatic updates via GitHub: the app now tells you about a new version itself and installs it after a check (SHA-256)."
+    "nl": "Opgelost: de app crashte bij het openen van de kaart (Gebieden).",
+    "en": "Fix: the app crashed when opening the map (Areas)."
   },
   "apk": {
-    "filename": "BushCraft-Pro-1.2.0.apk",
-    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/bushcraft-pro-v1.2.0/BushCraft-Pro-1.2.0.apk",
-    "sha256": "adcf017043f3943669639b331a9df40fe6ec4593d40b5800b83a33620f8efd8d",
-    "size": 72529137
+    "filename": "BushCraft-Pro-1.2.1.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/bushcraft-pro-v1.2.1/BushCraft-Pro-1.2.1.apk",
+    "sha256": "0196d400edac5bd360b6bef9dea2aadecd106413edcd8edd02c0714ba1e60b35",
+    "size": 72529117
   }
 }
