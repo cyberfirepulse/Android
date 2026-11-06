@@ -27,6 +27,10 @@ This repository contains Android applications covering different areas, includin
 
 Each project represents an opportunity to explore the relationship between human expertise and AI-assisted development.
 
+#### Weer-Extremen
+
+![Weer-Extremen space weather screens](ruimte-weer.png)
+
 ### Beyond Code Generation
 
 The objective is not merely to generate applications faster, but to demonstrate how effective Prompt Engineering can support the complete software development lifecycle — from initial concept and architecture to implementation, testing, deployment, and maintenance.
@@ -63,6 +67,10 @@ De applicaties binnen deze repository zijn gebaseerd op vijf uitgangspunten:
 Deze repository bevat Android-applicaties voor verschillende toepassingsgebieden, waaronder fotografie, weersmonitoring, survival, informatievoorziening en educatieve technologie.
 
 Ieder project biedt mogelijkheden om de relatie tussen menselijke expertise en AI-ondersteunde softwareontwikkeling te onderzoeken.
+
+#### Weer-Extremen
+
+![Ruimteweerschermen van Weer-Extremen](ruimte-weer.png)
 
 ### Meer dan alleen code genereren
 
