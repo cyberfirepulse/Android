@@ -1,0 +1,19 @@
+{
+  "product": "CameraWeerCoach",
+  "version": "6.0.0",
+  "versionCode": 60,
+  "channel": "stable",
+  "tag": "CameraCoach-v6.0.0",
+  "published": "2026-11-06",
+  "notes": {
+    "nl": "Eerste release op GitHub: Nederlands, Engels en Tsjechisch, realistische sterrenkaart, meerdere camera's, draadloze Canon-koppeling (CCAPI), Academy met 20 onderwerpen, echt berekende gouden/blauwe uur, licentie en automatische updates.",
+    "en": "First release on GitHub: Dutch, English and Czech, realistic star map, multiple cameras, wireless Canon connection (CCAPI), Academy with 20 topics, calculated golden/blue hour, licence and automatic updates.",
+    "cs": "První vydání na GitHubu: nizozemština, angličtina a čeština, realistická mapa oblohy, více fotoaparátů, bezdrátové propojení s Canonem (CCAPI), Akademie s 20 tématy, vypočtená zlatá/modrá hodinka, licence a automatické aktualizace."
+  },
+  "apk": {
+    "filename": "CameraWeerCoach-6.0.0.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CameraCoach-v6.0.0/CameraWeerCoach-6.0.0.apk",
+    "sha256": "fd4f67a7437f541924c987216ef91314701d7407a77b983a87f9319652edc15d",
+    "size": 74863059
+  }
+}
