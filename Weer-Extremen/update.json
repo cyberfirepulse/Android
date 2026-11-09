@@ -1,18 +1,18 @@
 {
   "product": "Weer-Extremen",
-  "version": "0.11.0",
-  "versionCode": 11,
+  "version": "0.12.0",
+  "versionCode": 12,
   "channel": "stable",
-  "tag": "weer-extremen-v0.11.0",
-  "published": "2026-11-05",
+  "tag": "weer-extremen-v0.12.0",
+  "published": "2026-11-09",
   "notes": {
-    "nl": "Licentie (Evaluatie, Basic, Pro) en automatische updates via GitHub.",
-    "en": "Licence (Evaluation, Basic, Pro) and automatic updates via GitHub."
+    "nl": "Realistische iconen in plaats van bolletjes (kaart, overzicht, ruimte-objecten, planetoïden). Nieuw: Tijdlijn – zonnestormen en aardse extremen (aardbevingen, vulkanen, orkanen, tornado's) op één tijdas, met per storm wat er tegelijk gebeurde en een vergelijking met gewone dagen.",
+    "en": "Realistic icons instead of dots (map, overview, space objects, asteroids). New: Timeline – solar storms and extremes on Earth (earthquakes, volcanoes, hurricanes, tornadoes) on one time axis, with what happened around each storm and a comparison with normal days."
   },
   "apk": {
-    "filename": "Weer-Extremen-0.11.0.apk",
-    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/weer-extremen-v0.11.0/Weer-Extremen-0.11.0.apk",
-    "sha256": "b3f63a6a3c2e42efac67ea7cc58b512b2552d971f10cf017a9f1a9971f0f6ea4",
-    "size": 29912575
+    "filename": "Weer-Extremen-0.12.0.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/weer-extremen-v0.12.0/Weer-Extremen-0.12.0.apk",
+    "sha256": "30f4d15e25d9557a3c76302424ae0310b552ef094c2b55e3f9d55a11de4cf6bc",
+    "size": 29980347
   }
 }
