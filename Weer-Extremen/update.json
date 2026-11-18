@@ -1,18 +1,18 @@
 {
   "product": "Weer-Extremen",
-  "version": "0.12.0",
-  "versionCode": 12,
+  "version": "0.13.0",
+  "versionCode": 13,
   "channel": "stable",
-  "tag": "weer-extremen-v0.12.0",
-  "published": "2026-11-09",
+  "tag": "weather-extremes-v0.13.0",
+  "published": "2026-11-18",
   "notes": {
-    "nl": "Realistische iconen in plaats van bolletjes (kaart, overzicht, ruimte-objecten, planetoïden). Nieuw: Tijdlijn – zonnestormen en aardse extremen (aardbevingen, vulkanen, orkanen, tornado's) op één tijdas, met per storm wat er tegelijk gebeurde en een vergelijking met gewone dagen.",
-    "en": "Realistic icons instead of dots (map, overview, space objects, asteroids). New: Timeline – solar storms and extremes on Earth (earthquakes, volcanoes, hurricanes, tornadoes) on one time axis, with what happened around each storm and a comparison with normal days."
+    "nl": "Stormen met naam uit twee groepen: naast de westelijke lijst (KNMI, Met Office, Met Éireann) nu ook de zuidwestelijke lijst (AEMET, Météo-France, IPMA, KMI, MeteoLux), met per storm wie de naam gaf en per groep de volgende namen. Op een Engelstalige telefoon heet de app nu 'Weather Extremes'; op GitHub staat de app voortaan in de map Weather-Extremes.",
+    "en": "Named storms from two groups: besides the western list (KNMI, Met Office, Met Éireann) now also the south-western list (AEMET, Météo-France, IPMA, RMI, MeteoLux), showing who named each storm and the next names per group. On an English phone the app is now called 'Weather Extremes'; on GitHub the app now lives in the Weather-Extremes folder."
   },
   "apk": {
-    "filename": "Weer-Extremen-0.12.0.apk",
-    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/weer-extremen-v0.12.0/Weer-Extremen-0.12.0.apk",
-    "sha256": "30f4d15e25d9557a3c76302424ae0310b552ef094c2b55e3f9d55a11de4cf6bc",
-    "size": 29980347
+    "filename": "Weather-Extremes-0.13.0.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/weather-extremes-v0.13.0/Weather-Extremes-0.13.0.apk",
+    "sha256": "5fbb0801dda7b356a5b9912e5b05939721fdfd3bc327b7e55cab362c20c31b06",
+    "size": 29989403
   }
 }
