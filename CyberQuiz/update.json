@@ -1,18 +1,18 @@
 {
   "product": "CyberQuiz",
-  "version": "7.6.0",
-  "versionCode": 76,
+  "version": "7.7.0",
+  "versionCode": 77,
   "channel": "stable",
-  "tag": "CyberQuiz-v7.6.0",
+  "tag": "CyberQuiz-v7.7.0",
   "published": "2026-11-18",
   "notes": {
-    "en": "Trainer mode: share a group via WhatsApp, e-mail and more (link with the group code). Forgot password on the trainer login.",
-    "nl": "Trainermodus: groep delen via WhatsApp, e-mail en meer (link met de groepscode). Wachtwoord vergeten bij het inloggen als trainer."
+    "en": "Questions with an image, a code block, 2 to 6 answers or a typed answer (fill in). Trainer mode shows images, code and the accepted answers.",
+    "nl": "Vragen met een afbeelding, een code-blok, 2 tot 6 antwoorden of zelf invullen. De trainermodus toont afbeeldingen, code en de goede antwoorden."
   },
   "apk": {
-    "filename": "CyberQuiz-7.6.0.apk",
-    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CyberQuiz-v7.6.0/CyberQuiz-7.6.0.apk",
-    "sha256": "ac964573bc84514046fb2f3045a952a1d0a431aa20c8f453eb821a89a5cf7ae9",
-    "size": 20531637
+    "filename": "CyberQuiz-7.7.0.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CyberQuiz-v7.7.0/CyberQuiz-7.7.0.apk",
+    "sha256": "e7a67f32a24804624df1bd2dd0de2b21d133098645f2d01bf4301703cd366ccc",
+    "size": 20539829
   }
 }
