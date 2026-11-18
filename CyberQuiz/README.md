@@ -1,4 +1,4 @@
-# Cyber Quiz – Android
+# CyberFirePulse - Cyber Quiz – Android
 
 🇬🇧 [English](#english) · 🇳🇱 [Nederlands](#nederlands)
 
