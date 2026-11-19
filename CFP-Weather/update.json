@@ -1,18 +1,18 @@
 {
   "product": "CFP Weather",
-  "version": "1.0.0",
-  "versionCode": 1,
+  "version": "1.0.1",
+  "versionCode": 2,
   "channel": "stable",
-  "tag": "CFP-Weather-v1.0.0",
+  "tag": "CFP-Weather-v1.0.1",
   "published": "2026-11-19",
   "notes": {
-    "nl": "Eerste versie op GitHub: CFP Weer met licentie (CFPW-…), Nederlands en Engels, en updates via GitHub.",
-    "en": "First release on GitHub: CFP Weather with a licence (CFPW-…), English and Dutch, and updates via GitHub."
+    "nl": "Neerslagkaart: bekijk de buien van de afgelopen 2 uur tot nu. Zelf afspelen, pauzeren of per stap terug en vooruit.",
+    "en": "Rain map: view the showers of the past 2 hours up to now. Play, pause or step back and forward yourself."
   },
   "apk": {
-    "filename": "CFP-Weather-1.0.0.apk",
-    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CFP-Weather-v1.0.0/CFP-Weather-1.0.0.apk",
-    "sha256": "bdb3b569d51e7ece33355d3e0342bed31db97d962c8e9231073be0da3927eb54",
-    "size": 46885758
+    "filename": "CFP-Weather-1.0.1.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CFP-Weather-v1.0.1/CFP-Weather-1.0.1.apk",
+    "sha256": "0ee9a4110d4a69c397bf5084fc4ecddddda0efa204ddfc2baaaccd9620628c1e",
+    "size": 46892654
   }
 }
