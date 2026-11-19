@@ -1,19 +1,19 @@
 {
   "product": "CameraCoach",
-  "version": "6.0.1",
-  "versionCode": 61,
+  "version": "6.0.2",
+  "versionCode": 62,
   "channel": "stable",
-  "tag": "CameraCoach-v6.0.1",
+  "tag": "CameraCoach-v6.0.2",
   "published": "2026-11-19",
   "notes": {
-    "nl": "Automatische updates werken nu: de app zoekt nieuwe versies in de map CameraCoach op GitHub (6.0.0 zocht in een map die niet bestond).",
-    "en": "Automatic updates now work: the app looks for new versions in the CameraCoach folder on GitHub (6.0.0 looked in a folder that did not exist).",
-    "cs": "Automatické aktualizace nyní fungují: aplikace hledá nové verze ve složce CameraCoach na GitHubu (verze 6.0.0 hledala ve složce, která neexistovala)."
+    "nl": "Je bestaande licentiesleutel (CWC-…) werkt weer; in 6.0.1 werd die ten onrechte geweigerd. De app heet nu overal CameraCoach.",
+    "en": "Your existing licence key (CWC-…) works again; 6.0.1 wrongly refused it. The app is now called CameraCoach everywhere.",
+    "cs": "Váš stávající licenční klíč (CWC-…) opět funguje; verze 6.0.1 jej chybně odmítala. Aplikace se nyní všude jmenuje CameraCoach."
   },
   "apk": {
-    "filename": "CameraCoach-6.0.1.apk",
-    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CameraCoach-v6.0.1/CameraCoach-6.0.1.apk",
-    "sha256": "38bb3b3a84b069426540714f1520e5fc6a88944f67401a6f31e13ef3da878dfc",
-    "size": 74863355
+    "filename": "CameraCoach-6.0.2.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CameraCoach-v6.0.2/CameraCoach-6.0.2.apk",
+    "sha256": "c998d9007c327c095cdd7dfe234e901dec0d89b939a19647b19e76e3ddc5f24a",
+    "size": 74863535
   }
 }
