@@ -17,7 +17,7 @@ On the phone: open the APK and allow installing from this source when Android as
 
 ## Licence
 
-The app needs a licence key (`CC-…`).
+The app needs a licence key (`CWC-…`).
 
 | Edition | What you get |
 |---|---|
