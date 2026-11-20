@@ -1,18 +1,18 @@
 {
   "product": "CyberQuiz",
-  "version": "7.8.0",
-  "versionCode": 78,
+  "version": "7.9.0",
+  "versionCode": 79,
   "channel": "stable",
-  "tag": "CyberQuiz-v7.8.0",
+  "tag": "CyberQuiz-v7.9.0",
   "published": "2026-11-20",
   "notes": {
-    "en": "Certificate: when you pass a quiz in a group that gives certificates, you can make a certificate and save it as PDF via the website. All certificates are under Progress.",
-    "nl": "Certificaat: slaag je voor een quiz in een groep die certificaten geeft, dan maak je een certificaat en sla je het via de website op als PDF. Alle certificaten staan onder Voortgang."
+    "en": "Lesson modules: read the lesson material, take the quiz and get a grade. Your modules and weighted average are on the start screen.",
+    "nl": "Lesmodules: lees het lesmateriaal, doe de quiz en krijg een cijfer. Je modules en je gewogen gemiddelde staan op het startscherm."
   },
   "apk": {
-    "filename": "CyberQuiz-7.8.0.apk",
-    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CyberQuiz-v7.8.0/CyberQuiz-7.8.0.apk",
-    "sha256": "90150c22573ae1367e97d06453d2e170eb27e83d3c8c8607ae128afd1831be38",
-    "size": 20552117
+    "filename": "CyberQuiz-7.9.0.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CyberQuiz-v7.9.0/CyberQuiz-7.9.0.apk",
+    "sha256": "4f7622c838f1212533cb868f1a7f08ffa5e004c4ac7fedb40254212678bad411",
+    "size": 20560309
   }
 }
