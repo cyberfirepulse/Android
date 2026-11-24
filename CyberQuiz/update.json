@@ -1,18 +1,18 @@
 {
   "product": "CyberQuiz",
-  "version": "8.0.0",
-  "versionCode": 80,
+  "version": "8.2.0",
+  "versionCode": 82,
   "channel": "stable",
-  "tag": "CyberQuiz-v8.0.0",
-  "published": "2026-11-20",
+  "tag": "CyberQuiz-v8.2.0",
+  "published": "2026-11-24",
   "notes": {
-    "en": "New question type: click on the right spot in the image. You can move your choice until you confirm; afterwards you see the correct area and your click.",
-    "nl": "Nieuw vraagtype: klik op de goede plek in de afbeelding. Je kunt je keuze verplaatsen tot je bevestigt; daarna zie je het goede vlak en jouw klik."
+    "en": "Lesson modules can now include a code exercise and/or a quiz, each with its own pass mark; you see the grade per part and the module grade.",
+    "nl": "Lesmodules kunnen nu een code-oefening en/of een quiz bevatten, elk met een eigen cesuur; je ziet het cijfer per onderdeel en het cijfer van de module."
   },
   "apk": {
-    "filename": "CyberQuiz-8.0.0.apk",
-    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CyberQuiz-v8.0.0/CyberQuiz-8.0.0.apk",
-    "sha256": "d30431879962fe26ae42db3d82f894646e694d4dfd8f3e6b7e7ae818509aaff9",
-    "size": 20568501
+    "filename": "CyberQuiz-8.2.0.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CyberQuiz-v8.2.0/CyberQuiz-8.2.0.apk",
+    "sha256": "869185a530ac3f258e4b048e6c84b60e08ef67547320eee4ff9a3413c171b6df",
+    "size": 20920898
   }
 }
