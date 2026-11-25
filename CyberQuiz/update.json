@@ -1,18 +1,18 @@
 {
   "product": "CyberQuiz",
-  "version": "8.2.0",
-  "versionCode": 82,
+  "version": "8.4.0",
+  "versionCode": 84,
   "channel": "stable",
-  "tag": "CyberQuiz-v8.2.0",
-  "published": "2026-11-24",
+  "tag": "CyberQuiz-v8.4.0",
+  "published": "2026-11-25",
   "notes": {
-    "en": "Lesson modules can now include a code exercise and/or a quiz, each with its own pass mark; you see the grade per part and the module grade.",
-    "nl": "Lesmodules kunnen nu een code-oefening en/of een quiz bevatten, elk met een eigen cesuur; je ziet het cijfer per onderdeel en het cijfer van de module."
+    "en": "Courses: follow a course step by step (lesson, practice, test, exam) with progress bar, locked steps with reason, and resume where you left off. Certificate when the course is completed.",
+    "nl": "Cursussen: volg een cursus stap voor stap (les, oefenen, toets, examen) met voortgangsbalk, vergrendelde stappen met reden en verder waar je gebleven was. Certificaat als de cursus gehaald is."
   },
   "apk": {
-    "filename": "CyberQuiz-8.2.0.apk",
-    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CyberQuiz-v8.2.0/CyberQuiz-8.2.0.apk",
-    "sha256": "869185a530ac3f258e4b048e6c84b60e08ef67547320eee4ff9a3413c171b6df",
-    "size": 20920898
+    "filename": "CyberQuiz-8.4.0.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CyberQuiz-v8.4.0/CyberQuiz-8.4.0.apk",
+    "sha256": "48a3638c75dc115e43f3f7c9a033e61559cd5f35eded047a36e16eda9042c5a6",
+    "size": 20945474
   }
 }
