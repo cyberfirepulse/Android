@@ -1,18 +1,18 @@
 {
   "product": "CyberQuiz",
-  "version": "8.4.0",
-  "versionCode": 84,
+  "version": "8.4.1",
+  "versionCode": 85,
   "channel": "stable",
-  "tag": "CyberQuiz-v8.4.0",
+  "tag": "CyberQuiz-v8.4.1",
   "published": "2026-11-25",
   "notes": {
-    "en": "Courses: follow a course step by step (lesson, practice, test, exam) with progress bar, locked steps with reason, and resume where you left off. Certificate when the course is completed.",
-    "nl": "Cursussen: volg een cursus stap voor stap (les, oefenen, toets, examen) met voortgangsbalk, vergrendelde stappen met reden en verder waar je gebleven was. Certificaat als de cursus gehaald is."
+    "en": "Courses as tiles with an icon and description; open a course and follow it step by step. New Arduino exercises (LED, button, serial monitor) run in the in-app window.",
+    "nl": "Cursussen als tegels met een plaatje en omschrijving; open een cursus en volg hem stap voor stap. Nieuwe Arduino-oefeningen (LED, knop, seriële monitor) draaien in het ingebouwde venster."
   },
   "apk": {
-    "filename": "CyberQuiz-8.4.0.apk",
-    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CyberQuiz-v8.4.0/CyberQuiz-8.4.0.apk",
-    "sha256": "48a3638c75dc115e43f3f7c9a033e61559cd5f35eded047a36e16eda9042c5a6",
+    "filename": "CyberQuiz-8.4.1.apk",
+    "download_url": "https://github.com/cyberfirepulse/Android/releases/download/CyberQuiz-v8.4.1/CyberQuiz-8.4.1.apk",
+    "sha256": "c2205267a12dc041181e636274172f1aa8a8837758bedaf2e5a25645ef7ae504",
     "size": 20945474
   }
 }
